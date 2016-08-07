@@ -20,7 +20,8 @@
         "jms/serializer-bundle": "@stable",
         "friendsofsymfony/rest-bundle": "@stable",
         "doctrine/doctrine-fixtures-bundle": "dev-master",
-        "friendsofsymfony/user-bundle": "~2.0@dev"
+        "friendsofsymfony/user-bundle": "~2.0@dev",
+        "lexik/jwt-authentication-bundle": "^1.7"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",
