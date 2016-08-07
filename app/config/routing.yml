@@ -15,4 +15,5 @@ fos_user:
 
 users:
   type: rest
+  prefix: /api
   resource: Community\ApiBundle\Controller\UsersController
